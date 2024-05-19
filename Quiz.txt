@@ -1,0 +1,6 @@
+Quiz #1
+Jika ingin membandingkan data antar kategori dan melihat frekuensi per-kategori,maka chart yang tepat untuk digunakan adalah ....
+a.Line Chart
+b.Histogram
+c.Bar Chart
+d.Pie Chart
