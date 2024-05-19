@@ -12,3 +12,20 @@ a.TRUE
 b.FALSE
 Jawaban (b)
 
+Quiz #1
+Setelah melakukan import dan eksplorasi awal data menggunakan R, kini aku dapat melanjutkan analisis data eksplorasi untuk data mitra Toserba. Namun, sebelum lanjut ke bagian selanjutnya, aku ingin memastikan bahwa aku sudah mengerti isi dari data yang akan aku olah.
+Dari data retail yang diberikan, variabel apa yang memiliki tipe data numerik .....
+a.Jenis Transaksi
+b.Jumlah
+c.Kode Produk
+d.Nama Pelanggan
+Jawaban (b)
+
+Quiz #2
+Ada berapa variable yang terdapat pada data retail?
+a.4
+b.9
+c.7
+d.8
+Jawaban (d)
+
