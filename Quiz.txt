@@ -4,3 +4,11 @@ a.Line Chart
 b.Histogram
 c.Bar Chart
 d.Pie Chart
+Jawaban (c)
+
+Quiz #2
+Dengan melakukan visualisasi terhadap data yang digunakan akan mempersulit dalam melakukan analisis. 
+a.TRUE
+b.FALSE
+Jawaban (b)
+
